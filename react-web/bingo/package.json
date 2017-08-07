@@ -1,0 +1,20 @@
+{
+  "name": "bingo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-native": "^0.47.1",
+    "react-native-signalr": "^1.0.4",
+    "react-scripts": "1.0.10",
+    "signalr": "^2.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
